@@ -20,7 +20,6 @@ Designed to highlight pet products, grooming services, and adoption stories — 
 The layout showcases **pet supplies**, **grooming services**, and **adoption opportunities** through a visually friendly and approachable interface.  
 It’s a perfect front-end concept for **pet shops**, **veterinary clinics**, or **animal adoption centers** aiming to build emotional connection with their audience.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -32,7 +31,6 @@ It’s a perfect front-end concept for **pet shops**, **veterinary clinics**, or
 - Dedicated sections for products, services, and adoptions  
 - Easy to modify and integrate with back-end systems  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -42,7 +40,6 @@ It’s a perfect front-end concept for **pet shops**, **veterinary clinics**, or
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
