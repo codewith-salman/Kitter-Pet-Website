@@ -3,11 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔰 LOGO -->
-<img src="Kitter/assets/images/logo.png" alt="Kitter Pet Website Logo" width="180" />
-
-<br /><br />
-
 <!-- 🔰 BADGES -->
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/kitter-pet-website)
 ![GitHub stars](https://img.shields.io/github/stars/codewith-salman/kitter-pet-website?style=social)
@@ -22,16 +17,21 @@
 
 <br />
 
-## 🐾 Kitter – Pet Website
+<!-- 🐾 PROJECT LOGO -->
+<div style="background-color:black; display:inline-block; padding:10px;">
+  <img src="Kitter/assets/images/logo.png" alt="Kitter Pet Website Logo" width="140" />
+</div>
 
-A playful and modern **Pet Care Website UI** built with HTML, CSS, and JavaScript.  
-Designed to highlight pet products, grooming services, and adoption stories with a friendly, engaging, and visually appealing design.
+<br /><br />
+
+<h1 align="center">🐾 Kitter – Pet Website</h1>
+
+A playful and modern **Pet Care Website UI** built using HTML, CSS, and JavaScript.  
+Designed to highlight pet products, grooming services, and adoption stories with a friendly and engaging design.
 
 <a href="https://kitter-pet-website.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
-
-<br />
 
 ---
 
@@ -53,32 +53,28 @@ Designed to highlight pet products, grooming services, and adoption stories with
 
 <img src="Kitter/assets/images/desktop.png" alt="Kitter Pet Website Desktop Screenshot" width="100%" />
 
-**Kitter Pet Website** provides a delightful and heartwarming digital experience for pet enthusiasts and pet businesses.  
-The website showcases **pet products, grooming services, and adoption opportunities** through a visually friendly and approachable interface.
+The **Kitter Pet Website** provides a delightful and heartwarming digital experience for pet enthusiasts and shop owners.  
+The layout showcases **pet supplies, grooming services, and adoption opportunities** through a visually friendly and approachable interface.
 
-This project demonstrates your ability to build **responsive business websites**, create engaging product sections, structure service-focused content, and implement modern front-end interactions using HTML, CSS, and JavaScript.
+This project demonstrates your ability to build **responsive business-focused websites**, create engaging product layouts, and structure service-based content with a strong visual identity.
 
-The Kitter website is perfect for:
-
-- 🐾 Pet shops and online pet stores
-- 🛁 Pet grooming services
-- 🏥 Veterinary and animal care businesses
-- 🏡 Animal adoption centers
-- 🎨 Pet-focused UI/UX portfolio projects
+Perfect for:
+- Pet shops and online pet stores
+- Veterinary clinics
+- Animal adoption centers
+- Pet care and grooming services
+- Responsive UI portfolio projects
 
 ---
 
 ## ✨ Features
 
-- Fully responsive pet-friendly website layout
-- Modern and playful visual design
-- Pet product showcase sections
-- Grooming and pet care service sections
-- Adoption-focused content areas
-- Smooth hover effects and transitions
-- Clean typography and structured layouts
-- Mobile-friendly navigation
-- Easy-to-customize content and styling
+- Fully responsive pet-friendly design
+- Soft color palette with engaging visuals
+- Smooth animations and interactive elements
+- Dedicated product, service, and adoption sections
+- Clean and modern UI structure
+- Easy-to-customize content and layout
 
 ---
 
@@ -92,18 +88,12 @@ This project is built using:
 
 ---
 
-## 🌐 Live Demo
-
-<a href="https://kitter-pet-website.vercel.app/"><strong>➥ View Kitter Live Website</strong></a>
-
----
-
 ## 📬 Contact
 
 **Muhammad Salman Arshad**
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-salmanarshad/
 - 🎨 **Figma:** https://www.figma.com/@codewithsalman
-- 📧 **Email:** msalmanwebdev@gmail.com
+- 📧 **Email:** [msalmanwebdev@gmail.com](mailto:msalmanwebdev@gmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
