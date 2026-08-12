@@ -9,7 +9,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/codewith-salman/kitter-pet-website?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://kitter-pet-website.vercel.app/)
-
 [![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
 [![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
@@ -17,17 +16,16 @@
 
 <br />
 
-<!-- 🐾 PROJECT LOGO -->
-<div style="background-color:black; display:inline-block; padding:10px;">
-  <img src="Kitter/assets/images/logo.png" alt="Kitter Pet Website Logo" width="140" />
-</div>
+<!-- 🔰 PROJECT LOGO -->
+<img src="Kitter/assets/images/logo.png" alt="Kitter Pet Website Logo" width="120"/>
 
-<br /><br />
+<br />
+<br />
 
 <h1 align="center">🐾 Kitter – Pet Website</h1>
 
-A playful and modern **Pet Care Website UI** built using HTML, CSS, and JavaScript.  
-Designed to highlight pet products, grooming services, and adoption stories with a friendly and engaging design.
+A playful, modern, and fully responsive  
+**Pet Care Website UI** built using **HTML, CSS, and JavaScript**.
 
 <a href="https://kitter-pet-website.vercel.app/"><strong>➥ Live Demo</strong></a>
 
@@ -48,33 +46,45 @@ Designed to highlight pet products, grooming services, and adoption stories with
 
 ---
 
-<!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="Kitter/assets/images/desktop.png" alt="Kitter Pet Website Desktop Screenshot" width="100%" />
+<img src="Kitter/assets/images/desktop.png" alt="Kitter Pet Website Desktop View" width="100%" />
 
-The **Kitter Pet Website** provides a delightful and heartwarming digital experience for pet enthusiasts and shop owners.  
-The layout showcases **pet supplies, grooming services, and adoption opportunities** through a visually friendly and approachable interface.
+The **Kitter Pet Website** is a playful and modern pet care website concept designed to create a friendly and engaging experience for pet lovers, pet shops, and animal care businesses.
 
-This project demonstrates your ability to build **responsive business-focused websites**, create engaging product layouts, and structure service-based content with a strong visual identity.
+The layout focuses on:
 
-Perfect for:
+- Pet products and supplies showcase
+- Grooming and pet care services
+- Adoption and pet-focused sections
+- Friendly and engaging visual design
+- Responsive layouts across all devices
+- Clean typography, spacing, and visual hierarchy
+
+This project demonstrates your ability to build **professional business-focused websites**, create engaging product layouts, and develop responsive interfaces with a strong visual identity.
+
+Ideal for:
 - Pet shops and online pet stores
 - Veterinary clinics
+- Pet grooming services
 - Animal adoption centers
-- Pet care and grooming services
-- Responsive UI portfolio projects
+- Front-end UI and responsive design practice
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
 ## ✨ Features
 
-- Fully responsive pet-friendly design
-- Soft color palette with engaging visuals
-- Smooth animations and interactive elements
-- Dedicated product, service, and adoption sections
-- Clean and modern UI structure
-- Easy-to-customize content and layout
+- Fully responsive pet-friendly layout
+- Modern and visually engaging UI
+- Dedicated product and services sections
+- Pet adoption showcase
+- Smooth animations and hover effects
+- Clean typography and spacing
+- Easy to customize content and layout
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -84,7 +94,9 @@ This project is built using:
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
+- **JavaScript (Vanilla)**
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
